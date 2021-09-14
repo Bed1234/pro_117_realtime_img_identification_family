@@ -23,7 +23,7 @@ body{
 h3 
   {
   font-family:monospace;
-   
+
   }
 .heading_div2
 {
@@ -38,10 +38,4 @@ h3
    font-size:20px;
  }
 
-  canvas{
-    border:5px solid white;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px violet;
-    margin-top: 330px;
  
-  }
